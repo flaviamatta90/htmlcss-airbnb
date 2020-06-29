@@ -15,6 +15,15 @@
   background-image: url(../img/cabras.jpg);
 }
 
+#dorgali{
+  background-image: url(../img/dorgali.jpg);
+}
+
+#castelsardo{
+  background-image: url(../img/castelsardo.jpg);
+
+}
+
 .layover{
   position: absolute;
   top:0;
