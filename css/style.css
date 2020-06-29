@@ -19,8 +19,8 @@
   background-image: url(../img/dorgali.jpg);
 }
 
-#castelsardo{
-  background-image: url(../img/castelsardo.jpg);
+#tavolara{
+  background-image: url(../img/tavolara.jpg);
 
 }
 
@@ -30,7 +30,7 @@
   left: 0;
   height: 100%;
   width: 100%;
-  background-color: rgba(0, 0, 0, 0.2);
+  background-color: rgba(0, 0, 0, 0.1);
 }
 
 .city-name{
